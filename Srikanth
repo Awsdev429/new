@@ -2,7 +2,11 @@
 <html lang="en">
 <head>
     <meta charset="UTF-8">
+<<<<<<< HEAD
     <title>My main git bash sample code</title>
+=======
+    <title>My main branch sample code</title>
+>>>>>>> c45e7ceb0f26fc7a40a92a03d740fea6aa177d95
     <style>
         body {
             font-family: Arial, sans-serif;
